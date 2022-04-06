@@ -1,1 +1,1 @@
-run = "lua src/main.lua"
+run = "clear && cd src && lua main.lua"
